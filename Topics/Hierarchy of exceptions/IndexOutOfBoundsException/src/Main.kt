@@ -1,0 +1,1 @@
+        val definitelySafe = ""[1]
